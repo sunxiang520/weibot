@@ -19,7 +19,7 @@
         "phpseclib/phpseclib": "^2.0",
         "pear/math_biginteger": "^1.0",
         "nesbot/carbon": "^1.25",
-        "symfony/dom-crawler": "^4.3",
+        "symfony/dom-crawler": "^5.0",
         "hanson/foundation-sdk": "^3.0",
         "symfony/css-selector": "^5.0"
     },
