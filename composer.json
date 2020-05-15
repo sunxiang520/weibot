@@ -18,7 +18,7 @@
         "guzzlehttp/guzzle": "^6.4",
         "phpseclib/phpseclib": "^2.0",
         "pear/math_biginteger": "^1.0",
-        "nesbot/carbon": "^2.26",
+        "nesbot/carbon": "^1.25",
         "symfony/dom-crawler": "^4.3",
         "hanson/foundation-sdk": "^3.0",
         "symfony/css-selector": "^4.3"
